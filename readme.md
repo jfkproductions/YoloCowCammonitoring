@@ -1,4 +1,4 @@
-# Yolo Cam Monitoring Application
+# Yolo cow Cam Monitoring Application
 
 ## Overview
 
